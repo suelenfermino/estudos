@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+
+    background-color: cadetblue;
+    margin: 50px;
+    padding: 50px;
+  
+
+}
+nav{text-align: center;}
+
+nav>a:hover{
+    font-weight: bolder;
+    color: black;}
+
+  a{ 
+      margin-right:15px;
+    padding: 15px;
+
+   
+}
+h1,h2{
+    text-align: center;
+}
+aside{
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 172, 252);
+    background-color: lemonchiffon;
+    text-align: center;
+}
+aside>p{color: black;}
+footer{
+    background-color: rgb(80, 124, 126);
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
+  
+}
+footer>a:hover{
+    font-weight: bolder;
+    color:black;}
+   
